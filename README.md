@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md, Mahfuj Hasan</h1>
 <h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
+[![Profile Banner](https://i.ibb.co/2qjJ0KH/github-header-image.png)](https://github.com/mdmahfujhasan)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahfujhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahfujhasan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahfujhasan" alt="mdmahfujhasan" /></a> </p>
