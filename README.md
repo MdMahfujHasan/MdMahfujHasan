@@ -3,7 +3,13 @@
 ## A Full Stack Web Developer passionate about crafting delightful and user-friendly experiences.
 
 [![Profile Banner](https://i.ibb.co/2qjJ0KH/github-header-image.png)](https://github.com/mdmahfujhasan)
-
+<style>
+    .markdown-body .container-lg {
+        max-width: none !important;
+        padding-left: 0;
+        padding-right: 0;
+    }
+</style>
 
 ### About Me
 
