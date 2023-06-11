@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md, Mahfuj Hasan</h1>
-<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+<h2 align="center">Hi👋, I'm Mahfuj Munna</h2>
+<h4 align="center">Full Stack Web Developer</h4>
 
 [![Profile Banner](https://i.ibb.co/2qjJ0KH/github-header-image.png)](https://github.com/mdmahfujhasan)
 
