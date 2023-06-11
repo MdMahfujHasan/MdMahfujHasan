@@ -2,7 +2,8 @@
 
 ## A Full Stack Web Developer passionate about crafting delightful and user-friendly experiences.
 
-[![Profile Banner]([https://raw.githubusercontent.com/your-username/your-repo-name/master/path/to/your/banner.png](https://i.ibb.co/2qjJ0KH/github-header-image.png))](https://github.com/mdmahfujhasan)
+[![Profile Banner](https://i.ibb.co/2qjJ0KH/github-header-image.png)](https://github.com/mdmahfujhasan)
+
 
 ### About Me
 
