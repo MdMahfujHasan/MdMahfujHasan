@@ -2,7 +2,7 @@
 
 ## A Full Stack Web Developer passionate about crafting delightful and user-friendly experiences.
 
-![Profile Banner]([https://your-image-url.com](https://ibb.co/fMCJV0L))
+[https://your-image-url.com](https://ibb.co/fMCJV0L))
 
 ### About Me
 
