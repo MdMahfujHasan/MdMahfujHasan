@@ -4,8 +4,9 @@
 
 [![Profile Banner](https://i.ibb.co/2qjJ0KH/github-header-image.png)](https://github.com/mdmahfujhasan)
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/your-username/your-repo-name/master/path/to/your/banner.png](https://i.ibb.co/2qjJ0KH/github-header-image.png)" alt="Profile Banner" width="100%">
+  <img src="https://i.ibb.co/2qjJ0KH/github-header-image.png" alt="Profile Banner" width="100%">
 </p>
+
 
 
 
