@@ -3,15 +3,6 @@
 
 [![Profile Banner](https://i.ibb.co/2qjJ0KH/github-header-image.png)](https://github.com/mdmahfujhasan)
 
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
-  <rect x="0" y="0" width="100%" height="100%" fill="#007BFF"/>
-  <text x="50%" y="50%" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" font-size="30px" font-family="Arial, sans-serif" font-weight="bold">Mahfuj Munna</text>
-  <text x="50%" y="65%" fill="#FFFFFF" text-anchor="middle" dominant-baseline="middle" font-size="20px" font-family="Arial, sans-serif">Full Stack Web Developer</text>
-</svg>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmahfujhasan&label=Profile%20views&color=0e75b6&style=flat" alt="mdmahfujhasan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmahfujhasan" alt="mdmahfujhasan" /></a> </p>
 
 - 🔭 I’m currently working on [Khelna Gari](https://khelna-gari.web.app/)
