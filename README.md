@@ -1,13 +1,6 @@
 <h1 align="center">Hi👋, I'm Mahfuj Munna</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<style>
-  .profile-banner {
-    width: 100%;
-    height: auto;
-  }
-</style>
-
 [![Profile Banner](https://i.ibb.co/2qjJ0KH/github-header-image.png)](https://github.com/mdmahfujhasan)
 
 <h3 align="left">Connect with me:</h3>
