@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Mahfuj Munna</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-[![Profile Banner](https://i.ibb.co/LS055m7/github-header-image.png)](https://github.com/mdmahfujhasan)
+[![Profile Banner](https://i.ibb.co/KKTQYg7/github-header-image.png)](https://github.com/mdmahfujhasan)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
